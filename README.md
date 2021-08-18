@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos </h1>
+<h1 align="center">Bienvenidos! </h1>
 
 <img align="right" src="https://media.giphy.com/media/KC7C3Kx87peD4dvWOR/giphy.gif" alt="leandro-cabeza" height="200" width="400" />
 
