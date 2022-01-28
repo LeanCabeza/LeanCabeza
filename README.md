@@ -1,6 +1,9 @@
 <h1 align="center">Bienvenidos! </h1>
 
-<img align="right" src="https://media.giphy.com/media/KC7C3Kx87peD4dvWOR/giphy.gif" alt="leandro-cabeza" height="200" width="400" />
+<img align="right" src="https://media.giphy.com/media/KC7C3Kx87peD4dvWOR/giphy.gif" alt="leandro-cabeza" height="300" width="500" />
+
+<h3 align="left">Pagina Web:</h3>
+<b><a href="https://leancabeza.github.io/" target="blank">leancabeza.github.io/ </a></b>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
